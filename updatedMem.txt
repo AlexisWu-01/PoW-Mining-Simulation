@@ -1,0 +1,1 @@
+Bear2,Camel3,Dolphin4,Elephant1,Gorilla3,Horse4,Iguana1,Jackal2,Kangaroo3,Lion4,Mouse1,Narwhal2,Octopus3,Parrot4,Quail1,Robbin2,Skunk3,Turkey4,Unicorn1,Vulture2,Yak4,Ant5,Caribou5,Eagle6,Fish6
